@@ -14,8 +14,8 @@ public class Methods {
     protected JFrame f3; 
     
     public final String NAME = "Значение"; // Правильно
-    public static String nameUser;
     public final String name222 = ";"; // Неправильно
+    public static String nameUser; // статичное поле
     /*
     После типа или класса , вы должны указать имя объекта чтобы обращаться к полю
     */
